@@ -1,4 +1,4 @@
-var nome = "Daniel de Medeiros Lima";
+var nome = "Daniel Lima";
 var cargo = "Desenvolvedor Web Full Stack";
 
 var nomeHtml = document.getElementById("nome-no-html");
